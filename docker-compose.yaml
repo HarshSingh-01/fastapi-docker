@@ -1,7 +1,7 @@
 version: '3.9'
 services:
   fastapi:
-    image: fastapi-docker:v1
+    image: fastapi-docker:initial-app
     container_name: fastapi-app
     volumes:
       - .:/home/fastapi
