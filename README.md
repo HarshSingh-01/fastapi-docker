@@ -1,4 +1,4 @@
-# fastapi-docker
+## fastapi-docker
 - This repository contains the use cases of fastapi with docker. 
 - Active branches in this project are written below. 
 - You can switch to the desired branch and use as an example for your project.
@@ -6,6 +6,7 @@
 
 ### Active branches
 - initial-app
+- alembic
 - postgres
 - mysql
 - mongodb
@@ -26,6 +27,11 @@
 <b>Clone repository</b>
 ```sh
 git clone https://github.com/HarshSingh-01/fastapi-docker.git
+```
+
+<b>Change directory</b>
+```sh
+cd fastapi-docker
 ```
 
 <b>Switch branch</b>
