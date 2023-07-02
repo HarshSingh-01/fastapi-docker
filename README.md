@@ -54,4 +54,13 @@ docker compose up
 <a href="http://localhost:8000" target="_blank">http://localhost:8000</a>
 <p>Frontend:</p>
 <a href="http://localhost:3000" target="_blank">http://localhost:3000</a>
+<br>
+
+### Important commands for using docker 
+<b>Deleting docker cache</b>
+```sh
+docker builder prune
+```
+<p>This will help you in deleting unwanted docker cache.</p>
+
 
